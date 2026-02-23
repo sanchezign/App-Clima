@@ -17,4 +17,4 @@ Esta es una aplicación web para mostrar el clima actual en cualquier ciudad del
 - **react-icons**: Para los íconos representando las condiciones climáticas.
 
 
-![asd](./src/assets/Screenshot%202024-11-28%20170528.png)
+![asd](./src/assets/app-clima.jpg)
